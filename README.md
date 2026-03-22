@@ -9,7 +9,7 @@ Instead of typing "the green button in the server controls panel around line 45"
 
 ## Demo
 
-![](./demo.mp4)
+<video src="./demo.mp4" controls autoplay loop muted width="100%"></video>
 
 
 ## Requirements
