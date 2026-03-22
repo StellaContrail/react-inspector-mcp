@@ -6,6 +6,7 @@ Instead of typing "the green button in the server controls panel around line 45"
 
 ![](./image.png)
 
+[日本語](./README.ja.md)
 
 ## Demo
 
