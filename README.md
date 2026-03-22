@@ -9,7 +9,7 @@ Instead of typing "the green button in the server controls panel around line 45"
 
 ## Demo
 
-<video src="./demo.mp4" controls autoplay loop muted width="100%"></video>
+https://github.com/user-attachments/assets/3c0a56e3-e17c-4703-b64d-d357d228f617
 
 
 ## Requirements
